@@ -640,7 +640,7 @@
 <t tx="40323253.20151025151519.8">&lt;section&gt;
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;又學了一個繪圖軟體Cero，初次使用覺得很複雜 ，但是後來發現它是有分類的 ，相關的模式放在一起 ，讓使用者方便操作 ，但是要自己畫出零件還是有點困難 。&lt;/p&gt;
-    &lt;p&gt;評分 : 70分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
+    &lt;p&gt;評分 : 72分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
