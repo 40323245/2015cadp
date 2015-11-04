@@ -584,7 +584,7 @@
 <t tx="40323253.20151012120005.9">&lt;section&gt;
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;英文沒有很厲害,查了很多單字,加上同學的幫忙,才把教材理解,希望透過不斷的練習,能使未來的作業做得更順暢。&lt;/p&gt;
-    &lt;p&gt;評分 : 75分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
+    &lt;p&gt;評分 : 76分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -640,7 +640,7 @@
 <t tx="40323253.20151025151519.8">&lt;section&gt;
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;又學了一個繪圖軟體Cero，初次使用覺得很複雜 ，但是後來發現它是有分類的 ，相關的模式放在一起 ，讓使用者方便操作 ，但是要自己畫出零件還是有點困難 。&lt;/p&gt;
-    &lt;p&gt;評分 : 72分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
+    &lt;p&gt;評分 : 73分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2150,7 +2150,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;經過了一翻的努力、請教，終於將資料成功推上遠端。在作業過程中遇到了許多困難，但是我努力求解，重做了很多次，終於完成了這份作業。&lt;/p&gt;
-    &lt;p&gt;評分 : 80分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
+    &lt;p&gt;評分 : 81分&lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;上課資料&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
